@@ -1,0 +1,7 @@
+read me
+
+:q
+
+q
+p:w
+
